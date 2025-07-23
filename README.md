@@ -1,9 +1,8 @@
 # NmapScripts
-A new collection of personal scripts
 
 
 Installazione:
-- copy http-check-sharpoint.nse in /usr/share/nmap/scripts/
+- copy http-check-sharepoint.nse in /usr/share/nmap/scripts/
 - sudo nmap --script-updatedb
 
 ```
