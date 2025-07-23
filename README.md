@@ -1,7 +1,7 @@
 # Nmap Scripts
 
 
-Installazione:
+Installation:
 - copy http-check-sharepoint.nse in /usr/share/nmap/scripts/
 - sudo nmap --script-updatedb
 
